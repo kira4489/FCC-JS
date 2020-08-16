@@ -1,0 +1,11 @@
+p{
+    text-align: center;
+    margin-top: 50px;
+}
+a{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-decoration: none;
+    color: blue;
+  }

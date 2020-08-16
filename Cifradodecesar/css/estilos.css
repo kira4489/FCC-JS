@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: darkkhaki;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container h2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 130px;
+}
+
+.container p {
+  text-align: center;
+  margin-top: 40px;
+}
+
+textarea {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 30%;
+  height: 90px;
+  font-size: 20px;
+}
+
+input[type="button"] {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+#resultado {
+  font-size: 20px;
+}
+
+a{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  text-decoration: none;
+  color: blue;
+}
