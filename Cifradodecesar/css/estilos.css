@@ -35,8 +35,10 @@ textarea {
 
 input[type="button"] {
   display: block;
-  margin: 0 auto;
-  margin-top: 20px;
+    margin: 0 auto;
+    width: 18%;
+    height: 30px;
+    margin-top: 20px;
 }
 
 #resultado {
