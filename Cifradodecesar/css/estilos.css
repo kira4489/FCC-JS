@@ -22,6 +22,7 @@ body {
 .container p {
   text-align: center;
   margin-top: 40px;
+  font-size: 20px;
 }
 
 textarea {
@@ -35,17 +36,17 @@ textarea {
 
 input[type="button"] {
   display: block;
-    margin: 0 auto;
-    width: 18%;
-    height: 30px;
-    margin-top: 20px;
+  margin: 0 auto;
+  width: 18%;
+  height: 30px;
+  margin-top: 20px;
 }
 
 #resultado {
   font-size: 20px;
 }
 
-a{
+a {
   display: flex;
   justify-content: center;
   margin-top: 50px;
