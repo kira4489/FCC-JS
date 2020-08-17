@@ -1,2 +1,2 @@
 # FCC-JS
-Retos de freecodecamp
+Retos de freecodecamp javascript
